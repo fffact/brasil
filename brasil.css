@@ -53,7 +53,20 @@
 }
 
 
+.footer {
+  min-height: 200px;
+  color: #bfbdc1;
+  background-color: #37323e;
+  border-top: 5px solid #6d6a75;
+}
 
+.footer a {
+  color: #bfbdc1;
+}
+
+.footer div {
+  margin-top: 100px;
+}
 
 
 
